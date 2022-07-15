@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.8cee1528.js";const m='{"title":"Read","description":"","frontmatter":{},"headers":[],"relativePath":"read/00_\u9605\u8BFB.md","lastUpdated":1657102786000}',r={},s=o("h1",{id:"read",tabindex:"-1"},"Read",-1),_=[s];function d(c,n,i,p,l,f){return a(),t("div",null,_)}var u=e(r,[["render",d]]);export{m as __pageData,u as default};
