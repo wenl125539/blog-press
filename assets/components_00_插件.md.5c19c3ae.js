@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as t}from"./app.8cee1528.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/00_\u63D2\u4EF6.md","lastUpdated":1657178283000}',s={},n=t("p",null,[t("strong",null,"\u63D2\u4EF6")],-1),r=[n];function _(c,d,l,p,i,f){return o(),a("div",null,r)}var h=e(s,[["render",_]]);export{u as __pageData,h as default};
