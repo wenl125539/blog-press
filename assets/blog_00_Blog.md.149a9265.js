@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.4f88bb76.js";const B='{"title":"Blog","description":"","frontmatter":{},"headers":[],"relativePath":"blog/00_Blog.md","lastUpdated":1657102786000}',s={},r=a("h1",{id:"blog",tabindex:"-1"},"Blog",-1),_=[r];function c(n,d,l,i,p,f){return o(),t("div",null,_)}var h=e(s,[["render",c]]);export{B as __pageData,h as default};
