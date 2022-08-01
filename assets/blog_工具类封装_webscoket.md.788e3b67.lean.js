@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.272cb19f.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/\u5DE5\u5177\u7C7B\u5C01\u88C5/webscoket.md","lastUpdated":1656489804000}',o={};function r(s,c,n,p,_,d){return a(),t("div")}var f=e(o,[["render",r]]);export{l as __pageData,f as default};

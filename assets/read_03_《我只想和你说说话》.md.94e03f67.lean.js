@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as _}from"./app.4f88bb76.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/01_js/4_\u6DF1\u5165babel.md","lastUpdated":1656496579000}',a={};function r(o,s,c,n,p,d){return _(),t("div")}var f=e(a,[["render",r]]);export{l as __pageData,f as default};
