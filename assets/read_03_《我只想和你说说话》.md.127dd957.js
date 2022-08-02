@@ -1,1 +1,0 @@
-import{_ as t,c as _,o as e}from"./app.272cb19f.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/04_uniapp/1_uniapp.md","lastUpdated":1656584571000}',a={};function r(o,n,p,s,c,i){return e(),_("div")}var f=t(a,[["render",r]]);export{l as __pageData,f as default};

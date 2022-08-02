@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as _}from"./app.fdb7fb57.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/03_reactjs/Redux.md","lastUpdated":1656660758000}',a={};function r(o,s,c,n,d,p){return _(),t("div")}var f=e(a,[["render",r]]);export{l as __pageData,f as default};

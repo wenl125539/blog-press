@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.272cb19f.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/10_\u9762\u8BD5/02_js.md","lastUpdated":1659348308000}',r={};function o(s,_,c,n,p,d){return a(),e("div")}var f=t(r,[["render",o]]);export{l as __pageData,f as default};
