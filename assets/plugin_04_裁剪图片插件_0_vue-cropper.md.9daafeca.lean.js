@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.f182fb68.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"plugin/04_\u88C1\u526A\u56FE\u7247\u63D2\u4EF6/0_vue-cropper.md","lastUpdated":1660643616000}',a={};function o(p,c,s,_,n,d){return r(),t("div")}var f=e(a,[["render",o]]);export{l as __pageData,f as default};
