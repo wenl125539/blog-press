@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as a,e as p}from"./app.f182fb68.js";const d='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/\u5DE5\u5177\u7C7B\u5C01\u88C5/1_\u6570\u636E\u6821\u9A8C.md","lastUpdated":1659431111000}',e={},t=p("",1),c=[t];function o(l,r,u,i,k,b){return a(),s("div",null,c)}var _=n(e,[["render",o]]);export{d as __pageData,_ as default};
