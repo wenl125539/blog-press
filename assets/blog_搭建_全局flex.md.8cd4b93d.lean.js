@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as a,e as p}from"./app.a5b2d336.js";const y='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/\u642D\u5EFA/\u5168\u5C40flex.md","lastUpdated":1660127652000}',t={},e=p("",1),c=[e];function o(l,u,r,i,b,k){return a(),s("div",null,c)}var x=n(t,[["render",o]]);export{y as __pageData,x as default};
