@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as o}from"./app.348d2e61.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/02_vue3/pinia.md","lastUpdated":1656660758000}',s={},n=o("p",null,"pinia",-1),r=[n];function c(i,_,p,d,l,f){return a(),t("div",null,r)}var h=e(s,[["render",c]]);export{m as __pageData,h as default};

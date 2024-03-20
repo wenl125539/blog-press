@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,e as p}from"./app.a5b2d336.js";const d='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/\u5DE5\u5177\u7C7B\u5C01\u88C5/2_tools.md","lastUpdated":1659431111000}',t={},e=p("",1),o=[e];function c(l,u,r,k,i,b){return a(),s("div",null,o)}var y=n(t,[["render",c]]);export{d as __pageData,y as default};
