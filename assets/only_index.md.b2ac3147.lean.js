@@ -138,10 +138,10 @@ import{_ as W,c as Z,a as P,w as M,r as z,o as nn,V as X,b as n,d as t}from"./ap
 
 `),n("span",{class:"token tag"},[n("span",{class:"token tag"},[n("span",{class:"token punctuation"},"<"),t("style")]),t(),n("span",{class:"token attr-name"},"scoped"),n("span",{class:"token punctuation"},">")]),n("span",{class:"token style"},[n("span",{class:"token language-css"},[t(`
 `),n("span",{class:"token selector"},".box"),n("span",{class:"token punctuation"},"{"),t(`
-  `),n("span",{class:"token property"},"height"),n("span",{class:"token punctuation"},":"),t("100vh"),n("span",{class:"token punctuation"},";"),t(`
-  `),n("span",{class:"token property"},"width"),n("span",{class:"token punctuation"},":"),t("100%"),n("span",{class:"token punctuation"},";"),t(`
+  `),n("span",{class:"token comment"},"/* 16:9 \u6BD4\u4F8B */"),t(`
+  `),n("span",{class:"token property"},"width"),n("span",{class:"token punctuation"},":"),t(" 1280px"),n("span",{class:"token punctuation"},";"),t(`
+  `),n("span",{class:"token property"},"height"),n("span",{class:"token punctuation"},":"),t(" 720px"),n("span",{class:"token punctuation"},";"),t(`
   `),n("span",{class:"token property"},"background-color"),n("span",{class:"token punctuation"},":"),t(" black"),n("span",{class:"token punctuation"},";"),t(`
-  
 `),n("span",{class:"token punctuation"},"}"),t(`
 `),n("span",{class:"token selector"},".font-box"),n("span",{class:"token punctuation"},"{"),t(`
   `),n("span",{class:"token property"},"height"),n("span",{class:"token punctuation"},":"),t("100%"),n("span",{class:"token punctuation"},";"),t(`
@@ -322,10 +322,10 @@ onBeforeUnmount(() => {
 
 <style scoped>
 .box{
-  height:100vh;
-  width:100%;
+  /* 16:9 \u6BD4\u4F8B */
+  width: 1280px;
+  height: 720px;
   background-color: black;
-  
 }
 .font-box{
   height:100%;
